@@ -1,7 +1,7 @@
 const botoes = document.getElementById('teclado')
 let senhatv =''
 
-document.getElementById('senha').addEventListener('keypress', function(e) {
+document.getElementById('senha').addEventListener('keydown', function(e) {
     if (e.key != '') {
         e.preventDefault()
         alert('Por favor utilize o teclado virtual!');
