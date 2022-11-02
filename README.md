@@ -1,4 +1,4 @@
-#Teclado Virtual
+Teclado Virtual
 
 Exercício para avaliação.
 
